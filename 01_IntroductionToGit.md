@@ -1,5 +1,3 @@
-# Learning GIT and GIT Hub BootCamp
-
 ## Introduction to Git
 
    

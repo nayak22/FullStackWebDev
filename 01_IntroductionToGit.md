@@ -34,21 +34,26 @@
 
 
 **Git Users**
-        **Tech-Adjacent Roles**
+
+   **Tech-Adjacent Roles**
+        
                 Many people in non-developer roles end up learning the
                 basics of Git to collaborate with their coworkers. Designers in
                 particular often need to work with Git.
-        **Governments**
+   **Governments**
+        
                 In recent years, governments have started using Git to manage
                 the drafting of laws. Washington DC City council uses Git &
                 Github to publish its laws. Citizens have even found and fixed
                 typos collaboratively using Git
-        **Scientists**
+                
+   **Scientists**
                 Git is commonly used by research teams at universities and
                 agencies around the world to manage code, data sets, and more.
                 Git + Github is especially powerful in the peer-reviewed world of
                 science and research.
-        **Writers**
+                
+   **Writers**
                 Some writers love using Git to manage drafts of complex
                 novels, screenplays, or other works with lots of moving parts
                 and constant changes across multiple files.
@@ -56,14 +61,18 @@
                 textbook writing with multiple authors.
                 
 
-**Git** ![image](https://user-images.githubusercontent.com/40575416/197382195-7d2b2397-5f9a-42ba-a3d0-c58c65d5cda8.png)
+**Git** 
+
+![image](https://user-images.githubusercontent.com/40575416/197382195-7d2b2397-5f9a-42ba-a3d0-c58c65d5cda8.png)
 
       Git is the version control software that runs locally on
       your machine. You don't need to register for an account.
       You don't need the internet to use it. You can use Git
       without ever touching Github.
       
-**Github** ![image](https://user-images.githubusercontent.com/40575416/197382203-e8f40883-22bc-4ecb-9f6f-3b70cceaf0c2.png)
+**Github** 
+
+![image](https://user-images.githubusercontent.com/40575416/197382203-e8f40883-22bc-4ecb-9f6f-3b70cceaf0c2.png)
 
       Github is a service that hosts Git repositories in the cloud
       and makes it easier to collaborate with other people.

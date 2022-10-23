@@ -33,32 +33,34 @@
 
 **Git Users**
 
-   **Tech-Adjacent Roles**
+   **1. Tech-Adjacent Roles**
         
                 Many people in non-developer roles end up learning the
                 basics of Git to collaborate with their coworkers. Designers in
                 particular often need to work with Git.
-   **Governments**
+   **2. Governments**
         
                 In recent years, governments have started using Git to manage
                 the drafting of laws. Washington DC City council uses Git &
                 Github to publish its laws. Citizens have even found and fixed
                 typos collaboratively using Git
                 
-   **Scientists**
+   **3. Scientists**
    
                 Git is commonly used by research teams at universities and
                 agencies around the world to manage code, data sets, and more.
                 Git + Github is especially powerful in the peer-reviewed world of
                 science and research.
                 
-   **Writers**
+   **4. Writers**
    
                 Some writers love using Git to manage drafts of complex
                 novels, screenplays, or other works with lots of moving parts
                 and constant changes across multiple files.
                 In particular, Git is gaining popularity for use in collaborative
                 textbook writing with multiple authors.
+                
+   **5. Many More**
                 
 
 <img src="https://user-images.githubusercontent.com/40575416/197382870-f3411cbc-4d0e-4740-8a7f-9996c2e9d316.png" width="65" height="50">

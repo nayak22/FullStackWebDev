@@ -63,18 +63,15 @@
                 textbook writing with multiple authors.
                 
 
-**Git** 
+<img src="https://user-images.githubusercontent.com/40575416/197382870-f3411cbc-4d0e-4740-8a7f-9996c2e9d316.png" width="65" height="50">
 
-![image](https://user-images.githubusercontent.com/40575416/197382195-7d2b2397-5f9a-42ba-a3d0-c58c65d5cda8.png)
 
       Git is the version control software that runs locally on
       your machine. You don't need to register for an account.
       You don't need the internet to use it. You can use Git
       without ever touching Github.
       
-**Github** 
-
-![image](https://user-images.githubusercontent.com/40575416/197382203-e8f40883-22bc-4ecb-9f6f-3b70cceaf0c2.png)
+<img src="https://user-images.githubusercontent.com/40575416/197382203-e8f40883-22bc-4ecb-9f6f-3b70cceaf0c2.png" width="65" height="50">
 
       Github is a service that hosts Git repositories in the cloud
       and makes it easier to collaborate with other people.

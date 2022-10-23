@@ -48,12 +48,14 @@
                 typos collaboratively using Git
                 
    **Scientists**
+   
                 Git is commonly used by research teams at universities and
                 agencies around the world to manage code, data sets, and more.
                 Git + Github is especially powerful in the peer-reviewed world of
                 science and research.
                 
    **Writers**
+   
                 Some writers love using Git to manage drafts of complex
                 novels, screenplays, or other works with lots of moving parts
                 and constant changes across multiple files.

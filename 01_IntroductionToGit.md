@@ -4,7 +4,7 @@
 
    **GIT**- The world's most popular version control system.
 
-   **Version Control **
+   **Version Control**
 
      * Version control is software that tracks and manages changes to files over time.
 
@@ -12,7 +12,7 @@
 
      * Git is just one of the many version control systems available today. Other well-known ones include Subversion, CVS, and Mercurial.
      
-   **Why Git is used? **
+   **Why Git is used?**
 
      1. Track changes across multiple files.
 

@@ -28,3 +28,10 @@
      
 ![image](https://user-images.githubusercontent.com/40575416/197381712-3b27bd34-861e-4ad7-8497-1a51d4de2c70.png)
 ![image](https://user-images.githubusercontent.com/40575416/197381727-c7d4f7f8-eb76-4e45-9cd2-ed066fac20da.png)
+
+
+  **Git Users**
+        **Tech-Adjacent Roles**
+                Many people in non-developer roles end up learning the
+                basics of Git to collaborate with their coworkers. Designers in
+                particular often need to work with Git.

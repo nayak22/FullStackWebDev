@@ -1,4 +1,4 @@
-###### **Terminal/Linux Commands **
+###### **Terminal/Linux Commands**
 
   - ls =>  The ‘ls’ command simply displays the contents of a directory.
   - start . => The "start ." command opens the file explore where cmd path is pointing to.

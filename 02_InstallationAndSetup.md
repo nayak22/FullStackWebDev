@@ -53,6 +53,7 @@
     
 ###### **Checking git Version**
   Open Git Bash and run the below command.
+    
     git --version
 
   

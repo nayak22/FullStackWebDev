@@ -1,11 +1,11 @@
 
 
-**###### GIT**
+###### **GIT**
 
 - Git was created as command-line tool. 
 - To use it, we run various git commands in a Unix shell. This is not the most user friendly experience, but it's at the very core of Git!
 
-**###### GIT GUI**
+###### **GIT GUI**
 
 - companies have created graphical user interfaces for Git that allow people to use Git without having to be a command-line expert.
 - Few Examples include:-
@@ -15,7 +15,7 @@
   - GitKraken
   - Ungit
 
-**###### GIT GUI/Clients**
+###### **GIT GUI/Clients**
 
   - **PROS**
     - Way lower barrier-of-entry for beginners compared to the command-line.
@@ -28,7 +28,7 @@
     - When things go seriously wrong, it can be very challenging to fix without the command-line
     - The interfaces, buttons, and menus vary between different GUI's.
 
-**###### GIT Command Line**
+###### **GIT Command Line**
 
   - **PROS**
     - Git is a command-line tool. All the documentation and resources online will refer to the command-line
@@ -41,7 +41,7 @@
     - Even for some practiced users, the commandline interface is just not a good experience. It's really a matter of preference.
 
 
-**###### Configuring Git**
+###### **Configuring Git**
   To configure the name that Git will associate with your work, run this command:
 
     git config --global user.❯ name "Tom Hulce" 

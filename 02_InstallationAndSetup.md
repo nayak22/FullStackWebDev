@@ -44,4 +44,9 @@
 ###### **Configuring Git**
   To configure the name that Git will associate with your work, run this command:
 
-    ``` git config --global user.❯ name "Tom Hulce" ```
+    git config --global user.❯ name "Tom Hulce" 
+    
+    
+  Do the same thing for your email using the following command. When we get to Github, you'll want your Git email address to match your Github account.
+
+    git config --global user.❯ email blah@blah.com
